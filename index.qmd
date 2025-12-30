@@ -9,17 +9,14 @@ about:
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/mainakbardhan/
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=VCagZtIAAAAJ&hl=en
     - text: GitHub
       href: https://github.com/mainakbardhan
     - text: Email
       href: mailto:bardhan.mainak@gmail.com
 ---
+Physician-Scientist,pursing PhD in Human Genetics and Genomics at the [University of Miami Miller School of Medicine](https://med.miami.edu/graduate-studies/doctoral-programs/human-genetics-and-genomics), working at the intersection of genetics, genomics,epigenetics, pathology,epidemiology of Neurological,Oncological & Rare disorders.
 
-I am a highly trained Physician Scientist specializing in Genetics, Genomics, Pathology, and Epidemiology of Neurological disorders, Neuromuscular,Rare Disorders as well as infectious disorders. 
-
-
-
-      
-
-
+**Research interests:** Genetics, genomics,epigenetics of human diseases with a focus on precision medicine and public health.
 
