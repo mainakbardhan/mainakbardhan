@@ -4,3 +4,5 @@ title: "Publications"
 
 A complete and up-to-date list of my publications is available on  
 👉 **[Google Scholar](https://scholar.google.com/citations?user=VCagZtIAAAAJ&hl=en)**
+
+{{< fa brands orcid >}} [ORCID](https://orcid.org/YOUR_ORCID)
