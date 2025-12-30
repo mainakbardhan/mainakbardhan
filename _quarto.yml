@@ -12,7 +12,7 @@ website:
         text: About
       - href: research.qmd
         text: Research
-      - href: publications.html
+      - href: publications.qmd
         text: Publications
       - href: cv.qmd
         text: CV
