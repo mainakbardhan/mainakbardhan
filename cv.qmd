@@ -1,0 +1,14 @@
+---
+title: ""
+---
+
+## Curriculum Vitae
+
+Download: [mainak_bardhan_CV.pdf](files/mainak_bardhan_CV.pdf){target="_blank"}
+
+<iframe
+  src="files/mainak_bardhan_CV.pdf"
+  width="100%"
+  height="900px"
+  style="border:none;">
+</iframe>
