@@ -2,7 +2,8 @@
 title: "Publications"
 ---
 
-A complete and up-to-date list of my publications is available on  
-👉 **[Google Scholar](https://scholar.google.com/citations?user=VCagZtIAAAAJ&hl=en)**
+A complete and up-to-date list of my publications is available on  {{< fa graduation-cap >}}[Google Scholar](https://scholar.google.com/citations?user=VCagZtIAAAAJ&hl=en) & {{< fa microscope >}} [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Mainak+bardhan)
 
-{{< fa brands orcid >}} [ORCID](https://orcid.org/YOUR_ORCID)
+You can request and find full texts of my published work at [{{< fa brands researchgate >}} ResearchGate](https://www.researchgate.net/profile/YOUR_USERNAME){target="_blank"}
+
+My editorial board memberships and peer review works are listed at {{< fa chart-line >}} [Web of science](https://www.webofscience.com/wos/author/record/AAL-3008-2020){target="_blank"} & {{< fa brands orcid >}} [ORCID](https://orcid.org/0000-0002-4106-409X) 
