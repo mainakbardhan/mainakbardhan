@@ -1,1 +1,10 @@
 /* css styles */
+#landing-icons a {
+  color: #0d6efd;   /* default icon color (blue) */
+  text-decoration: none;
+  font-size: 1.6rem;
+}
+
+#landing-icons a:hover {
+  color: #000;      /* hover color (black) */
+}

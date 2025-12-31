@@ -6,17 +6,19 @@ about:
   template: jolla
   image-shape: rounded
   image-width: 17em
-  links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/mainakbardhan/
-    - text: Google Scholar
-      href: https://scholar.google.com/citations?user=VCagZtIAAAAJ&hl=en
-    - text: GitHub
-      href: https://github.com/mainakbardhan
-    - text: Email
-      href: mailto:bardhan.mainak@gmail.com
+  
 ---
 Physician-Scientist,pursing PhD in Human Genetics and Genomics at the [University of Miami Miller School of Medicine](https://med.miami.edu/graduate-studies/doctoral-programs/human-genetics-and-genomics), working at the intersection of genetics, genomics,epigenetics, pathology,epidemiology of Neurological,Oncological & Rare disorders.
 
 **Research interests:** Genetics, genomics,epigenetics of human diseases with a focus on precision medicine and public health.
 
+::: {#landing-icons style="text-align:center; margin-top:1.5rem; font-size:1.8rem;"}
+
+[{{< fa brands linkedin >}}](https://www.linkedin.com/in/mainakbardhan/){target="_blank" title="LinkedIn"} &nbsp;&nbsp;
+[{{< fa brands google-scholar >}}](https://scholar.google.com/citations?user=VCqgZtIAAAAJ&hl=en){target="_blank" title="Google Scholar"} &nbsp;&nbsp;
+[{{< fa brands researchgate >}}](https://www.researchgate.net/profile/Mainak-Bardhan){target="_blank" title="ResearchGate"} &nbsp;&nbsp;
+[{{< fa brands github >}}](https://github.com/mainakbardhan){target="_blank" title="GitHub"} &nbsp;&nbsp;
+[{{< fa brands x-twitter >}}](https://x.com/mainak_bardhan){target="_blank"} &nbsp;&nbsp;
+[{{< fa solid envelope >}}](mailto:bardhan.mainak@gmail.com){title="Email"}
+
+:::
