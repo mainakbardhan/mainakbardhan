@@ -1,7 +1,8 @@
 ---
 title: "About"
 subtitle: "a bit more about Mainak Bardhan and his journey"
-title-block-banner: true
+title-block-banner: True
+body-class: about-page
 ---
 
 Dr. Mainak Bardhan is a physician–scientist with advanced training in **Genetics, Genomics, Pathology, and Epidemiology**, specializing in **neurological disorders, neuromuscular diseases,oncology, rare disorders, and infectious diseases**. His work is strongly grounded in **public health**, driven by a deep commitment to translating biomedical research into meaningful health outcomes.

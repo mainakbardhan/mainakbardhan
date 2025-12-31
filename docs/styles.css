@@ -8,3 +8,20 @@
 #landing-icons a:hover {
   color: #000;      /* hover color (black) */
 }
+
+/* Remove divider lines under all headings (site-wide) */
+h1, h2, h3, h4, h5, h6 {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}
+
+/* Extra safety: remove pseudo-element lines if theme uses them */
+h1::after,
+h2::after,
+h3::after,
+h4::after,
+h5::after,
+h6::after {
+  content: none !important;
+  border: none !important;
+}
